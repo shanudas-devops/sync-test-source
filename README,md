@@ -1,1 +1,15 @@
-readme file
+
+# Sync Test Source
+
+This repository is used to test automation.
+
+## Quick Run
+
+1. Clone the repository.
+2. Install dependencies using npm install.
+3. Start the application using npm run dev.
+
+## Other Information
+
+This section should not be collected.
+
