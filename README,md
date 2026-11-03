@@ -8,6 +8,7 @@ This repository is used to test automation.
 1. Clone the repository.
 2. Install dependencies using npm install.
 3. Start the application using npm run dev.
+4.Ask my name
 
 ## Other Information
 
